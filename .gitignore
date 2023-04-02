@@ -10,6 +10,14 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+/UnityGraphicPipline/Library/
+/UnityGraphicPipline/[Tt]emp/
+/UnityGraphicPipline/[Oo]bj/
+/UnityGraphicPipline/[Bb]uild/
+/UnityGraphicPipline/[Bb]uilds/
+/UnityGraphicPipline/[Ll]ogs/
+/UnityGraphicPipline/[Mm]emoryCaptures/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
